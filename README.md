@@ -32,12 +32,12 @@ Small project using Django to keep building and expand in the future.
 
 ## :sparkles: Main Concepts Covered ##
 
-:heavy_check_mark: Installation;\
-:heavy_check_mark: Manage Django Projects;\
-:heavy_check_mark: Models - Build A Database;
-:heavy_check_mark: Dynamic Web Pages And Hyperlinks;
-:heavy_check_mark: Django Templates - Working With Images;
-:heavy_check_mark: Python Functions, Variables And Strings;
+:heavy_check_mark: Installation\
+:heavy_check_mark: Manage Django Projects\
+:heavy_check_mark: Models - Build A Database\
+:heavy_check_mark: Dynamic Web Pages And Hyperlinks\
+:heavy_check_mark: Django Templates - Working With Images\
+:heavy_check_mark: Python Functions, Variables And Strings\
 
 ## :rocket: Modules ##
 
