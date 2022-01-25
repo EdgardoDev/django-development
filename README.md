@@ -37,7 +37,7 @@ Small project using Django to keep building and expand in the future.
 :heavy_check_mark: Models - Build A Database\
 :heavy_check_mark: Dynamic Web Pages And Hyperlinks\
 :heavy_check_mark: Django Templates - Working With Images\
-:heavy_check_mark: Python Functions, Variables And Strings\
+:heavy_check_mark: Python Functions, Variables And Strings
 
 ## :rocket: Modules ##
 
