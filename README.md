@@ -39,15 +39,6 @@ Small project using Django to keep building and expand in the future.
 :heavy_check_mark: Django Templates - Working With Images\
 :heavy_check_mark: Python Functions, Variables And Strings
 
-## :rocket: Modules ##
-
-The following modules were used in this project:
-
-- []()
-- []()
-- []()
-- []()
-- []()
 
 ## :white_check_mark: Requirements ##
 
